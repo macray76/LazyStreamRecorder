@@ -1,0 +1,31 @@
+Anaheim Ducks;ANA;0
+Arizona Coyotes;ARI;0
+Boston Bruins;BOS;0
+Buffalo Sabres;BUF;0
+Calgary Flames;CGY;0
+Carolina Hurricanes;CAR;0
+Chicago Blackhawks;CHI;0
+Colorado Avalanche;COL;0
+Columbus Blue Jackets;CBJ;0
+Dallas Stars;DAL;0
+Detroit Red Wings;DET;0
+Edmonton Oilers;EDM;0
+Florida Panthers;FLA;0
+Los Angeles Kings;LAK;0
+Minnesota Wild;MIN;0
+Montreal Canadiens;MTL;0
+Nashville Predators;NSH;0
+New Jersey Devils;NJD;0
+New York Islanders;NYI;0
+New York Rangers;NYR;0
+Ottawa Senators;OTT;0
+Philadelphia Flyers;PHI;0
+Pittsburgh Penguins;PIT;0
+San Jose Sharks;SJS;0
+St. Louis Blues;STL;0
+Tampa Bay Lightning;TBL;0
+Toronto Maple Leafs;TOR;0
+Vancouver Canucks;VAN;0
+Vegas Golden Knights;VGK;0
+Washington Capitals;WSH;0
+Winnipeg Jets;WIN;0

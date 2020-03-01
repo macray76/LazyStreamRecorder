@@ -1,0 +1,163 @@
+.header {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #DA3030
+}
+
+
+body {
+  width: 100%;
+  max-width: 500px;
+        margin-right: auto;
+        margin-left: auto;
+
+}
+#lazyman_img {
+  height: 50px;
+  vertical-align: middle;
+}
+
+#logo {
+  height: 50px;
+  vertical-align: middle;
+}
+
+#table_teams_nhl, #table_teams_mlb {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+
+#table_teams_nhl td, #table_teams_mlb td, #table_teams_nhl th, #table_teams_mlb th {
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+
+#table_teams_nhl tr:nth-child(even), #table_teams_mlb tr:nth-child(even){background-color: #f2f2f2;}
+
+#table_teams_nhl tr:hover, #table_teams_mlb tr:hover {background-color: #ddd;}
+
+#table_teams_nhl th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #231F20;
+  color: white;
+}
+
+#table_teams_mlb th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #041E42;
+  color: white;
+}
+
+input:required:invalid, input:focus:invalid {
+  background-color: #DA1818;
+  color: #FFFFFF;
+}
+
+input[type=text] {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 1px solid grey;
+  border-radius: 6px;
+  padding: 1px 3px;
+}
+
+input[type=text]:focus {
+  background-color: #B1FFA8;
+}
+
+#other-link {
+  background-color: #041E42;
+  color: white;
+  padding: 6px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 0;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 14;
+
+}
+
+
+a {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 14;
+}
+
+#standings-link_nhl:link, #standings-link_nhl:visited {
+  background-color: #231F20;
+  color: white;
+  padding: 6px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#standings-link_mlb:link, #standings-link_mlb:visited {
+  background-color: #041E42;
+  color: white;
+  padding: 6px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active, #other-link:hover, #other-link:active, #standings-link_nhl:hover, #standings-link_nhl:active, #standings-link_mlb:hover, #standings-link_mlb:active {
+  background-color: #45A049;
+  cursor: pointer;
+}
+
+
+#submit2 {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 18;
+  width: 100%;
+  background-color: #DA3030;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#submit2:hover {
+  background-color: #231F20;
+}
+
+.column-left {
+  float: left;
+  width: 150px;
+}
+
+.column-right {
+  float: left;
+  width: 350px;
+}
+
+.links {
+  width: 100%;
+  padding: 15px 20px;
+  clear: both;
+}
+
+.link-left {
+  float: left;
+  width: 50%;
+}
+
+.link-right {
+  float: left;
+  width: 50%;
+}
+
+.table-sel {
+  clear: both;
+  padding: 15px 0;
+}

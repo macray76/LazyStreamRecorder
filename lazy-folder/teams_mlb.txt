@@ -1,0 +1,30 @@
+Arizona Diamondbacks;ARI;0
+Atlanta Braves;ATL;0
+Baltimore Orioles;BAL;0
+Boston Red Sox;BOS;0
+Chicago Cubs;CHC;0
+Chicago White Sox;CWS;0
+Cincinnati Reds;CIN;0
+Cleveland Indians;CLE;0
+Colorado Rockies;COL;0
+Detroit Tigers;DET;0
+Florida Marlins;FLA;0
+Houston Astros;HOU;0
+Kansas City Royals;KAN;0
+Los Angeles Angels;LAA;0
+Los Angeles Dodgers;LAD;0
+Milwaukee Brewers;MIL;0
+Minnesota Twins;MIN;0
+New York Mets;NYM;0
+New York Yankees;NYY;0
+Oakland Athletics;OAK;0
+Philadelphia Phillies;PHI;0
+Pittsburgh Pirates;PIT;0
+San Diego Padre; SD;0
+San Francisco Giant; SF;0
+Seattle Mariners;SEA;0
+St. Louis Cardinals;STL;0
+Tampa Bay Ray; TB;0
+Texas Rangers;TEX;0
+Toronto Blue Jays;TOR;0
+Washington Nationals;WAS;0
